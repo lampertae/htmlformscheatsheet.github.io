@@ -1,0 +1,23 @@
+* {
+background-color: chocolate;
+}
+
+h1, h2 {
+    text-align: center;
+    color: darkslategrey;
+}
+
+table, td, th {
+    border: 2px solid darkslategrey;
+    border-collapse: collapse;
+    background-color: cornsilk;
+}
+
+th {
+    color: darkslategrey;
+}
+
+.code {
+    font-family: monospace;
+    background-color: rgb(240, 172, 149);
+}
